@@ -14,4 +14,6 @@
 
 
 def speak_to_grandma
-  if what.downcase == 
+  if what.downcase == "HUH?! SPEAK UP, SONNY!"
+    
+  end
