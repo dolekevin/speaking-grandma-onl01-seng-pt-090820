@@ -13,5 +13,7 @@ def speak_to_grandma(phrase)
   if phrase == "What did you eat today?".upcase
   return "NO, NOT SINCE 1938!"
   end
+  if phrase == "Hi!"
+    return ""
   
 end
