@@ -4,3 +4,4 @@ def speak_to_grandma(phrase)
 end
 
 if speak_to_grandma("I LOVE YOU GRANDMA!") == I LOVE YOU GRANDMA!
+  puts
